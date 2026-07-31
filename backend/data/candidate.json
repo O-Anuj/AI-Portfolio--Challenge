@@ -1,0 +1,101 @@
+{
+  "name": "Anuj Kumar",
+  "headline": "AI Engineer & Full-Stack Developer",
+  "summary": "Passionate software developer focused on building AI-powered applications. Experienced with Python, LLM APIs, FastAPI, and React. Currently learning and building projects through the Padho AI Engineer course.",
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "institution": "Parul University",
+      "year": "2026",
+      "cgpa": "8.5"
+    }
+  ],
+  "skills": [
+    "Core Java",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "SQL",
+    "React.js",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL",
+    "Supabase",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Redux Toolkit",
+    "JWT",
+    "REST APIs",
+    "Docker",
+    "Git",
+    "GitHub",
+    "AWS",
+    "LangChain",
+    "ChromaDB",
+    "FAISS",
+    "RAG",
+    "Prompt Engineering",
+    "OpenAI API",
+    "Google Gemini API"
+  ],
+  "projects": [
+    {
+      "name": "AI Resume Parser",
+      "description": "Built a full-stack application that parses resumes and matches candidates against job requirements using LLM extraction.",
+      "technologies": ["Python", "FastAPI", "React", "Groq API", "Pydantic"],
+      "highlights": [
+        "Structured JSON extraction from unstructured resume text",
+        "Skill matching against HR-provided requirements"
+      ]
+    },
+    {
+      "name": "AI Portfolio Chat",
+      "description": "This project — an interactive portfolio where recruiters chat with an AI representative that answers honestly from provided profile data.",
+      "technologies": ["Python", "FastAPI", "React", "Groq API"],
+      "highlights": [
+        "Streaming chat responses",
+        "Conversation memory",
+        "Job description matching for HR"
+      ]
+    },
+    {
+      "name": "Groq Chat Experiments",
+      "description": "Explored token usage, streaming, and structured output with the Groq API during the AI Engineer course.",
+      "technologies": ["Python", "Groq API", "Pydantic"],
+      "highlights": [
+        "Compared prompt token costs across different prompt lengths",
+        "Implemented JSON schema validation with Pydantic"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Developer Intern",
+      "company": "Xeno Tech Pvt Ltd",
+      "duration": "Jan 2026 – May 2026",
+      "description": "Worked on backend APIs and integrated third-party services. Collaborated on a team project using Python and REST APIs."
+    }
+  ],
+  "achievements": [
+    "Participated in Odoo Hackathon.",
+    "Completed NPTEL certifications in Internet of Things and Computer Networks.",
+    "Solved 100+ LeetCode coding problems."
+  ],
+  "certifications": [
+    {
+      "name": "Python for Everybody",
+      "issuer": "Coursera",
+      "year": "2023"
+    }
+  ],
+  "social_links": {
+    "github": "https://github.com/O-Anuj",
+    "linkedin": "https://www.linkedin.com/in/anuj-keshri-6346442a7/",
+    "email": "anujkeshri449@gmail.com",
+    "portfolio": "https://mysiteio.netlify.app/"
+  }
+}
