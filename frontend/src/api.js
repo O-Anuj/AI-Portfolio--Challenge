@@ -51,3 +51,6 @@ export async function analyzeJobMatch(jobDescription) {
 
   return response.json();
 }
+
+
+
