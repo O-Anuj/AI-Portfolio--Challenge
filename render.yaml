@@ -2,6 +2,6 @@ services:
   - type: web
     name: ai-portfolio-backend
     env: python
-    rootDir: .
-    buildCommand: sh render-build.sh
-    startCommand: sh render-start.sh
+    rootDir: backend
+    buildCommand: python -m pip install -r requirements.txt
+    startCommand: python -m uvicorn app.main:app --host 0.0.0.0 --port $PORT
