@@ -2,6 +2,6 @@ services:
   - type: web
     name: ai-portfolio-backend
     env: python
-    rootDir: backend
+    rootDir: .
     buildCommand: sh render-build.sh
     startCommand: sh render-start.sh
