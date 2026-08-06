@@ -3,5 +3,5 @@ services:
     name: ai-portfolio-backend
     env: python
     rootDir: backend
-    buildCommand: python3 -m pip install -r requirements.txt
-    startCommand: python3 -m uvicorn main:app --host 0.0.0.0 --port $PORT
+    buildCommand: sh render-build.sh
+    startCommand: sh render-start.sh
