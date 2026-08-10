@@ -3,5 +3,5 @@ services:
     name: ai-portfolio-backend
     env: python
     rootDir: backend
-    buildCommand: bash render-build.sh
-    startCommand: bash render-start.sh
+    buildCommand: sh render-build.sh
+    startCommand: sh render-start.sh
